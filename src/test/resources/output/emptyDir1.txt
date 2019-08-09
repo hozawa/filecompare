@@ -1,0 +1,7 @@
+,b.txt,0,0,,directory 1 is empty. file extra in directory 2.
+,a1.txt,0,0,,directory 1 is empty. file extra in directory 2.
+,b2.txt,0,0,,directory 1 is empty. file extra in directory 2.
+,d2.txt,0,0,,directory 1 is empty. file extra in directory 2.
+,d1.txt,0,0,,directory 1 is empty. file extra in directory 2.
+,c1.txt,0,0,,directory 1 is empty. file extra in directory 2.
+,c2.txt,0,0,,directory 1 is empty. file extra in directory 2.

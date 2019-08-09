@@ -1,0 +1,1 @@
+java -jar imagecropper-1.2.jar %*

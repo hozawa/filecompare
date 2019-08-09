@@ -1,0 +1,2 @@
+File 1,File 2,File 1 Line No,File 2 Line No,Content Differences,Message
+a1.txt,a1.txt,0,0,,files are the same
