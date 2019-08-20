@@ -6,9 +6,9 @@ August 6, 2019 Hitoshi Ozawa
 
 ## Description
 
-Text File Compare Tool is a Java 1.6 tool to compare text files in 2 directoriesand output differences to specified output file.
+Text File Compare Tool is a Java 1.6 tool to compare text files in 2 directories and output differences to specified output file.
 
-It can be used to compare generated files in test environment with those in production environment to make sure they are all the same.
+It can be used to compare and verify generated files in test environment with those in production environment to make sure they are all the same.
 
 ## Requirements
 
