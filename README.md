@@ -1,4 +1,4 @@
-#Text File Compare Tool
+# Text File Compare Tool
 
 Java command line tool to compare text file line by line.
 
